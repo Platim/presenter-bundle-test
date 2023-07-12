@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8dff7446a74632f8ee6c5821103d4dda",
+    "content-hash": "2c1c733c0e3ecad4530c3758a04355ec",
     "packages": [
         {
             "name": "doctrine/cache",
@@ -1325,7 +1325,7 @@
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "ssh://git@github.com:22/Platim/presenter-bundle.git",
+                "url": "ssh://git@github.com:22/platim/presenter-bundle.git",
                 "reference": "ce3f7d3534bf4cf4344097ab044a94fb4513f86a"
             },
             "require": {

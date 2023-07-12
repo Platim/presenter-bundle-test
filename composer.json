@@ -6,7 +6,7 @@
     "repositories": [
         {
             "type": "git",
-            "url": "ssh://git@github.com:22/Platim/presenter-bundle.git"
+            "url": "ssh://git@github.com:22/platim/presenter-bundle.git"
         }
     ],
     "require": {
