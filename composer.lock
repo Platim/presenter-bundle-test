@@ -1326,7 +1326,7 @@
             "source": {
                 "type": "git",
                 "url": "ssh://git@github.com:22/platim/presenter-bundle.git",
-                "reference": "ce3f7d3534bf4cf4344097ab044a94fb4513f86a"
+                "reference": "0a03920e29745c03f9f13d5a899ff64027ec6a16"
             },
             "require": {
                 "doctrine/orm": "^2.7",
@@ -1373,7 +1373,7 @@
                 }
             ],
             "description": "Presenter Bundle",
-            "time": "2023-07-12T17:47:00+00:00"
+            "time": "2023-07-13T05:08:24+00:00"
         },
         {
             "name": "psr/cache",

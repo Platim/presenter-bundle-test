@@ -30,3 +30,7 @@ services:
         class:  Symfony\Component\Serializer\NameConverter\CamelCaseToSnakeCaseNameConverter
         tags:
             - { name: presenter.name_converter, group: internal }
+
+    App\EventListener\KernelExceptionListener:
+        tags:
+            - { name: kernel.event_listener, event: kernel.exception, priority: -1 }
